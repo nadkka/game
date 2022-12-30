@@ -1,0 +1,53 @@
+body{
+    background-color: #787f90;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+#caly{
+    background-color: #4b4f59;
+    border: 15px solid black;
+    border-radius: 5%;
+    margin: auto;
+    margin-top: 1%;
+    width: 720px;
+    height: 720px;
+}
+
+
+.kwadrat{
+    width: 144px;
+    height: 144px;
+    background-color: #A4243B;
+    float: left;
+    margin: 15px;
+    font-size: 100px;
+    border: solid black 3px;
+    border-radius: 10%;
+
+
+}
+
+button{
+    border: 2px black solid;
+    height: 40px;
+    width: 100px;
+    font-size: large;
+    background-color: #62666A;
+
+}
+button:hover{
+    background-color: #717578;
+}
+
+input{
+    height: 35px;
+    width: 150px;
+    font-size: 35px;
+    vertical-align: middle;
+}
+
+
